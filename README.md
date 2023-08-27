@@ -12,6 +12,6 @@ ________________________________
 
 
 
-________________________________________________________________________
+___________________________________________________________________________
 Este código é inspirado do site: (https://developer.android.com/?hl=pt-br)
 Repositório inicial: (https://github.com/google-developer-training/basic-android-kotlin-compose-training-affirmations/tree/intermediate) 
